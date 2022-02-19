@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  background: radial-gradient(53.9% 53.9% at 77.01% 30.21%, rgba(31, 195, 231, 0.84375) 0%, #1F34E7 100%);
+
 }
 
 .App-logo {
@@ -36,3 +37,8 @@
     transform: rotate(360deg);
   }
 }
+
+.service-img {
+  width: 18%;
+}
+
