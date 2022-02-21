@@ -3,10 +3,8 @@ import Landing from "./components/Landing";
 
 function App() {
   return (
-    <div className="App px-10">
-      <div>
-        <Landing />
-      </div>
+    <div className="px-10 w-full flex p-28">
+      <Landing />
     </div>
   );
 }
