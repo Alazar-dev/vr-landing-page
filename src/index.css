@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-  margin: 0;
-  background: radial-gradient(53.9% 53.9% at 77.01% 30.21%, rgba(31, 195, 231, 0.84375) 0%, #030b5a 100%);
+ width: 100%;
+  background: radial-gradient(53.9% 53.9% at 77.01% 30.21%, rgba(31, 195, 231, 0.84375) 0%, #030b5a 100%) no-repeat center;
   opacity: 0.8;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

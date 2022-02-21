@@ -13,12 +13,12 @@ import {
 
 export default function Landing() {
   return (
-    <div className="App bg-black px-20 pb-20 rounded-3xl">
+    <div className="App bg-black px-6 md:px-20 pb-20">
       <Header />
-      <div className="flex items-center">
+      <div className="md:flex items-center">
         <img className="eclipse-7" src={eclipse7} alt="" />
         <img className="eclipse-6" src={eclipse6} alt="" />
-        <div className="w-98">
+        <div>
           <div className="flex">
             <p
               className="text-white text-3xl font-bold"
